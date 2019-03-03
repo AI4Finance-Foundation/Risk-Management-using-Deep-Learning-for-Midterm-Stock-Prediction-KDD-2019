@@ -1,9 +1,9 @@
 # Mid-LSTM-meets-Mid-ARMA
 Mid-LSTM meets Mid-ARMA: deep learning for midterm stock prediction.
 
-These codes are run on Google Colaboratory.
+These codes are run on Google Colaboratory with Python 3.
 
-Mid-LSTM is the main files for the Mid-LSTM deep neural network in "Mid-LSTM meets Mid-ARMA: deep learning for midterm stock prediction."
+mid-lstm is the main file for the Mid-LSTM deep neural network in "Mid-LSTM meets Mid-ARMA: deep learning for midterm stock prediction."
 
 The S&P 500 stocks are in 
 

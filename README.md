@@ -1,5 +1,5 @@
-# Risk Management via Anomaly Circumvent Mnemonic Deep Learning for Midterm Stock Prediction
-Risk Management via Anomaly Circumvent Mnemonic Deep Learning for Midterm Stock Prediction: deep learning for Anomaly Circumvent.
+# Risk Management via Anomaly Circumvent: Mnemonic Deep Learning for Midterm Stock Prediction
+Risk Management via Anomaly Circumvent: Mnemonic Deep Learning for Midterm Stock Prediction: deep learning for Anomaly Circumvent.
 
 These codes are run on Google Colaboratory with Python 3.
 
